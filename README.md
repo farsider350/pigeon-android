@@ -6,7 +6,7 @@ PgnWallet for Android
 
 ### The easy and secure Pigeon Coin wallet
 
-PgnWallet is the best way to get started with Pigeon Coin. Our simple, streamlined design is easy for beginners, yet powerful enough for experienced users. This is a port of the PgnWallet for iOS app which can be found here: https://github.com/pigeoncoin/auswallet-ios
+PgnWallet is the best way to get started with Pigeon Coin. Our simple, streamlined design is easy for beginners, yet powerful enough for experienced users. This is a port of the PgnWallet for iOS app which can be found here: https://github.com/farsider350/pigeon-ios
 
 ##### Completely decentralized
 
@@ -36,7 +36,7 @@ Simplicity and ease-of-use is **PgnWallet**'s core design principle. A simple re
 3. Download NDK r15c from the [NDK Archives](https://developer.android.com/ndk/downloads/older_releases.html)
 4. Clone this repo & init submodules
 ```bash
-$ git clone https://github.com/farsider350/auswallet-android.git
+$ git clone https://github.com/farsider350/pigeon-android.git
 ```
 5. Open the project with Android Studio, navigate to `File > Project Structure > SDK Location`
 6. Change `Android NDK Location` with the path to NDK r15c that you downloaded earlier
